@@ -1,0 +1,89 @@
+{
+  "site": {
+    "title": "Gemar Belajar",
+    "subtitle": "Visualisasi Interaktif untuk Pembelajaran",
+    "tagline": "Belajar sains & matematika dengan cara yang menyenangkan!"
+  },
+  "nav": {
+    "home": "Beranda",
+    "simulasi": "Simulasi",
+    "tataSurya": "Tata Surya",
+    "gravitasi": "Gravitasi",
+    "gelombang": "Gelombang Sinusoidal",
+    "matematika": "Matematika",
+    "tentang": "Tentang"
+  },
+  "home": {
+    "heroTitle": "Belajar Jadi Lebih Seru!",
+    "heroDesc": "Jelajahi sains dan matematika melalui visualisasi 3D interaktif. Dirancang khusus untuk pelajar Indonesia dari SD hingga SMA.",
+    "mulaiBelajar": "Mulai Belajar",
+    "simulasiTersedia": "Simulasi Tersedia",
+    "tataSuryaCard": "Jelajahi planet-planet dalam tata surya kita. Lihat bagaimana mereka mengorbit matahari!",
+    "gravitasiCard": "Pahami gaya gravitasi Newton melalui simulasi interaktif. Belajar tentang orbit dan gaya tarik.",
+    "gelombangCard": "Visualisasikan gelombang sinusoidal. Atur amplitudo, frekuensi, dan fase secara real-time!",
+    "matematikaCard": "Gambarkan grafik fungsi matematika. Lihat perubahan grafik saat koefisien diubah."
+  },
+  "tataSurya": {
+    "title": "Tata Surya 3D",
+    "description": "Jelajahi planet-planet dalam tata surya. Seret untuk memutar, scroll untuk zoom, klik planet untuk info lengkap!",
+    "controls": {
+      "speed": "Kecepatan Orbit",
+      "pause": "Jeda",
+      "play": "Putar",
+      "labels": "Label",
+      "reset": "Atur Ulang Kamera"
+    },
+    "info": {
+      "name": "Nama",
+      "distance": "Jarak dari Matahari",
+      "distanceUnit": "juta km",
+      "orbitPeriod": "Periode Orbit",
+      "diameter": "Diameter",
+      "diameterUnit": "km",
+      "funFact": "Fakta Menarik",
+      "clickHint": "Klik planet untuk melihat informasi"
+    },
+    "planets": {
+      "matahari": "Matahari",
+      "merkurius": "Merkurius",
+      "venus": "Venus",
+      "bumi": "Bumi",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturnus": "Saturnus",
+      "uranus": "Uranus",
+      "neptunus": "Neptunus"
+    },
+    "funFacts": {
+      "matahari": "Matahari adalah bintang terdekat dengan Bumi. Diameternya 109 kali diameter Bumi!",
+      "merkurius": "Merkurius adalah planet terkecil dan terdekat dengan Matahari. Setahun di Merkurius hanya 88 hari Bumi!",
+      "venus": "Venus adalah planet terpanas meskipun bukan yang terdekat ke Matahari. Suhunya bisa mencapai 465°C!",
+      "bumi": "Bumi adalah satu-satunya planet yang diketahui memiliki kehidupan. Sekitar 71% permukaan Bumi ditutupi air!",
+      "mars": "Mars disebut 'Planet Merah' karena permukaannya yang kaya akan zat besi oksida (karat)!",
+      "jupiter": "Jupiter adalah planet terbesar di tata surya. Massanya 2,5 kali massa semua planet lain digabungkan!",
+      "saturnus": "Cincin Saturnus terdiri dari miliaran partikel es dan batuan. Lebar cincinnya mencapai 282.000 km!",
+      "uranus": "Uranus berotasi dengan sumbu miring 98°, sehingga 'berguling' saat mengorbit Matahari!",
+      "neptunus": "Neptunus memiliki angin tercepat di tata surya, mencapai 2.100 km/jam!"
+    }
+  },
+  "gravitasi": {
+    "title": "Simulasi Gravitasi",
+    "description": "Pelajari hukum gravitasi Newton melalui simulasi interaktif. (Segera hadir!)",
+    "comingSoon": "Segera Hadir"
+  },
+  "gelombang": {
+    "title": "Gelombang Sinusoidal",
+    "description": "Visualisasikan gelombang sinusoidal dan pelajari komponen-komponennya. (Segera hadir!)",
+    "comingSoon": "Segera Hadir"
+  },
+  "matematika": {
+    "title": "Grafik Fungsi Matematika",
+    "description": "Gambarkan grafik fungsi matematika secara interaktif. (Segera hadir!)",
+    "comingSoon": "Segera Hadir"
+  },
+  "footer": {
+    "credit": "Dibuat dengan ❤️ untuk pendidikan Indonesia",
+    "sourceCode": "Kode Sumber",
+    "tentang": "Gemar Belajar adalah platform visualisasi edukasi interaktif untuk membantu siswa Indonesia memahami konsep sains dan matematika."
+  }
+}

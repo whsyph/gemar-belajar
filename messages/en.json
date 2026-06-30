@@ -1,0 +1,89 @@
+{
+  "site": {
+    "title": "Gemar Belajar",
+    "subtitle": "Interactive Learning Visualizations",
+    "tagline": "Learn science & math the fun way!"
+  },
+  "nav": {
+    "home": "Home",
+    "simulasi": "Simulations",
+    "tataSurya": "Solar System",
+    "gravitasi": "Gravity",
+    "gelombang": "Sinusoidal Waves",
+    "matematika": "Mathematics",
+    "tentang": "About"
+  },
+  "home": {
+    "heroTitle": "Learning Made More Fun!",
+    "heroDesc": "Explore science and mathematics through interactive 3D visualizations. Designed for Indonesian students from elementary to high school.",
+    "mulaiBelajar": "Start Learning",
+    "simulasiTersedia": "Available Simulations",
+    "tataSuryaCard": "Explore the planets in our solar system. See how they orbit the sun!",
+    "gravitasiCard": "Understand Newton's law of gravity through interactive simulations. Learn about orbits and gravitational forces.",
+    "gelombangCard": "Visualize sinusoidal waves. Adjust amplitude, frequency, and phase in real-time!",
+    "matematikaCard": "Plot mathematical function graphs. See how graphs change as coefficients are adjusted."
+  },
+  "tataSurya": {
+    "title": "3D Solar System",
+    "description": "Explore the planets in our solar system. Drag to rotate, scroll to zoom, click a planet for detailed info!",
+    "controls": {
+      "speed": "Orbit Speed",
+      "pause": "Pause",
+      "play": "Play",
+      "labels": "Labels",
+      "reset": "Reset Camera"
+    },
+    "info": {
+      "name": "Name",
+      "distance": "Distance from Sun",
+      "distanceUnit": "million km",
+      "orbitPeriod": "Orbit Period",
+      "diameter": "Diameter",
+      "diameterUnit": "km",
+      "funFact": "Fun Fact",
+      "clickHint": "Click a planet to see information"
+    },
+    "planets": {
+      "matahari": "Sun",
+      "merkurius": "Mercury",
+      "venus": "Venus",
+      "bumi": "Earth",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturnus": "Saturn",
+      "uranus": "Uranus",
+      "neptunus": "Neptune"
+    },
+    "funFacts": {
+      "matahari": "The Sun is the closest star to Earth. Its diameter is 109 times Earth's diameter!",
+      "merkurius": "Mercury is the smallest planet and closest to the Sun. A year on Mercury is only 88 Earth days!",
+      "venus": "Venus is the hottest planet even though it's not the closest to the Sun. Its temperature can reach 465°C!",
+      "bumi": "Earth is the only known planet with life. About 71% of Earth's surface is covered by water!",
+      "mars": "Mars is called the 'Red Planet' because its surface is rich in iron oxide (rust)!",
+      "jupiter": "Jupiter is the largest planet in the solar system. Its mass is 2.5 times all other planets combined!",
+      "saturnus": "Saturn's rings consist of billions of ice and rock particles. The rings span up to 282,000 km!",
+      "uranus": "Uranus rotates with an 98° tilted axis, so it 'rolls' around the Sun!",
+      "neptunus": "Neptune has the fastest winds in the solar system, reaching 2,100 km/h!"
+    }
+  },
+  "gravitasi": {
+    "title": "Gravity Simulation",
+    "description": "Learn Newton's law of gravity through interactive simulations. (Coming soon!)",
+    "comingSoon": "Coming Soon"
+  },
+  "gelombang": {
+    "title": "Sinusoidal Waves",
+    "description": "Visualize sinusoidal waves and learn about their components. (Coming soon!)",
+    "comingSoon": "Coming Soon"
+  },
+  "matematika": {
+    "title": "Math Function Graphs",
+    "description": "Plot mathematical function graphs interactively. (Coming soon!)",
+    "comingSoon": "Coming Soon"
+  },
+  "footer": {
+    "credit": "Made with ❤️ for Indonesian education",
+    "sourceCode": "Source Code",
+    "tentang": "Gemar Belajar is an interactive educational visualization platform to help Indonesian students understand science and math concepts."
+  }
+}
